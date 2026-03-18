@@ -1,5 +1,5 @@
 {
-  "apiPath": "https://in-test-ins.starshinetechs.com",
-  "h5Path": "https://301-ins-test.susecurities.com",
-  "version": 1
+  "apiPath": "https://prod.supoket.com",
+  "h5Path": "https://h5.supoket.com",
+  "version": 2
 }
